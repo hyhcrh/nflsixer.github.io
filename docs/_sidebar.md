@@ -1,27 +1,13 @@
-- Quick Start
-  - [README](README.md)
-  - [FAQ](faq.md)
-  - [Introduction](intro.md)
-  - [Clipboard](quick-start/clipboard.md)
-  - [Editor](quick-start/editor.md)
-  - [Actions](quick-start/actions.md)
-- Editor
-  - [Hello, Markdown](editor/hello-markdown.md)
-  - [Pro Tips](editor/pro-tips.md)
-  - [Math Formulas](editor/math.md)
-  - [Diagrams](editor/diagrams.md)
-- Text Actions
-  - [Basics](actions/basics.md)
-  - [Categories](actions/categories.md)
-  - [Template Strings](actions/template-strings.md)
-  - [Control Flow](actions/control-flow.md)
-  - [Variables](actions/variables.md)
-  - [Advanced Scripting](actions/scripting.md)
-- App Integration
-  - [Shortcuts](integration/shortcuts.md)
-  - [Working Copy](integration/working-copy.md)
-  - [TextExpander](integration/text-expander.md)
-  - [URL Schemes](integration/url-schemes.md)
-- Privacy & Terms
-  - [Private Policy](privacy.md)
-  - [Terms of Service](terms.md)
+- Daily Board
+  - [Today](zh-cn/dbtoday.md)
+  
+- Class Blog
+  - Coming Up!
+  
+- NFLSixer Online
+  - [Timetable](NSonline/timetable2021.md)
+  - [Study Groups](NSonline/studygroups.md)
+  - [Contact Us](en-uk/NSonline/contactform.md)
+
+- Find Us On
+  - [Bilibili](https://m.bilibili.com/space/1668916597)
