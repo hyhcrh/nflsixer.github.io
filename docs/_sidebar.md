@@ -1,13 +1,13 @@
 - Daily Board
-  - [Today](db/dbtoday.md)
+  - [今日](db/dbtoday.md)
   
-- Class Blog
-  - Coming Up!
+- 博客
+  - [在路上了！]()
   
-- NFLSixer Online
-  - [Timetable](nsonline/timetable2021.md)
-  - [Study Groups](nsonline/studygroups.md)
-  - [Contact Us](/nsonline/contactform.md)
+- 在线
+  - [课程表](nsonline/timetable2021.md)
+  - [学习小组](nsonline/studygroups.md)
+  - [联系方式](/nsonline/contactform.md)
 
-- Find Us On
+- 我们还在
   - [Bilibili](https://m.bilibili.com/space/1668916597)
