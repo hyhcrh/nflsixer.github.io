@@ -2,7 +2,7 @@
   - [今日](db/dbtoday.md)
   
 - 博客
-  - [在路上了！]()
+  - [在路上了！](/)
   
 - 在线
   - [课程表](nsonline/timetable2021.md)
