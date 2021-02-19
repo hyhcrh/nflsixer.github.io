@@ -1,2 +1,2 @@
-- [Release Notes](rn.md)
-- [**EN** / CN](cn/)
+- Language
+- [**中文** / EN](en/)
