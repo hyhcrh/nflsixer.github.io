@@ -17,22 +17,22 @@ window.$docsify = {
   name: 'Taio',
   search: {
     noData: {
-      '/cn/': '没有结果',
-      '/': 'No results'
+      '/': '没有结果',
+      '/en/': 'No results'
     },
     paths: 'auto',
     placeholder: {
-      '/cn/': '搜索',
-      '/': 'Search'
+      '/': '搜索',
+      '/en/': 'Search'
     }
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
   plugins: [
     EditOnGithubPlugin.create('https://github.com/cyanzhong/docs.taio.app/blob/master/docs/', null, path => {
-      if (path.indexOf('cn/') === 0) {
-        return '在 GitHub 上编辑';
+      if (path.indexOf('/') === 0) {
+        return '编辑';
       } else {
-        return 'Edit on GitHub';
+        return 'Edit';
       }
     }),
     (hook, vm) => {
