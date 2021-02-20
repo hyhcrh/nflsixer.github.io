@@ -3,8 +3,8 @@ window.$docsify = {
   alias: {
     '/((?!en).)*/_sidebar.md': '/_sidebar.md',
     '/((?!en).)*/_navbar.md': '/_navbar.md',
-    '/en/.*/_sidebar.md': '/cn/_sidebar.md',
-    '/en/.*/_navbar.md': '/cn/_navbar.md'
+    '/en/.*/_sidebar.md': '/en/_sidebar.md',
+    '/en/.*/_navbar.md': '/en/_navbar.md'
   },
   auto2top: true,
   coverpage: false,
