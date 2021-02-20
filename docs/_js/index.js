@@ -17,13 +17,13 @@ window.$docsify = {
   name: 'NFLSixer',
   search: {
     noData: {
-      '/': '没有结果',
-      '/en/': 'No results'
+      '/en/': 'No Results',
+      '/': '没有结果'
     },
     paths: 'auto',
     placeholder: {
-      '/': '双站搜索',
-      '/en/': 'Search CN & EN Sites'
+      '/en/': 'Search CN & EN Sites',
+      '/': '双站搜索'
     }
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
