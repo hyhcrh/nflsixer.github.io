@@ -1,5 +1,5 @@
 - Daily Board
-  - [Today](db/dbtoday.md)
+  - [Today(CN)](db/dbtoday.md)
   
 - Blog
   - [Website Update!](en/blog/newsite.md)
