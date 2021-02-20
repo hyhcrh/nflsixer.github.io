@@ -1,3 +1,4 @@
+<script>
 window.$docsify = {
   themeColor: '#ff9500',
   alias: {
@@ -14,6 +15,7 @@ window.$docsify = {
   mergeNavbar: true,
   maxLevel: 4,
   subMaxLevel: 2,
+  disqus: 'shortname'
   name: 'NFLSixer',
   search: {
     noData: {
@@ -70,3 +72,5 @@ function loadPlugin(path) {
     document.head.appendChild(script);
   });
 }
+</script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
