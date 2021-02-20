@@ -30,9 +30,9 @@ window.$docsify = {
   plugins: [
     EditOnGithubPlugin.create('https://github.com/antdock/6/blob/master/docs/', null, path => {
       if (path.indexOf('/') === 0) {
-        return '编辑';
+        return '编辑 / Edit';
       } else {
-        return 'Edit';
+        return '编辑 / Edit';
       }
     }),
     (hook, vm) => {
