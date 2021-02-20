@@ -22,17 +22,17 @@ window.$docsify = {
     },
     paths: 'auto',
     placeholder: {
-      '/': '搜索',
-      '/en/': 'Search'
+      '/': '双站搜索',
+      '/en/': 'Search CN & EN Sites'
     }
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
   plugins: [
-    EditOnGithubPlugin.create('https://github.com/cyanzhong/docs.taio.app/blob/master/docs/', null, path => {
+    EditOnGithubPlugin.create('https://github.com/antdock/6/blob/master/docs/', null, path => {
       if (path.indexOf('/') === 0) {
-        return '编辑';
+        return '管理员编辑';
       } else {
-        return 'Edit';
+        return 'Editor For Site Managers';
       }
     }),
     (hook, vm) => {
