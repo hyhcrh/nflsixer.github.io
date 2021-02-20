@@ -14,7 +14,7 @@ window.$docsify = {
   mergeNavbar: true,
   maxLevel: 4,
   subMaxLevel: 2,
-  name: 'Taio',
+  name: 'NFLSixer',
   search: {
     noData: {
       '/': '没有结果',
