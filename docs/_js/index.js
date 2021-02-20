@@ -7,7 +7,7 @@ window.$docsify = {
     '/en/.*/_navbar.md': '/en/_navbar.md'
   },
   auto2top: true,
-  coverpage: ['/','/en/']
+  coverpage: false,
   executeScript: true,
   loadSidebar: true,
   loadNavbar: true,
