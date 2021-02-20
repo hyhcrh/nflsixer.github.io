@@ -28,7 +28,7 @@ window.$docsify = {
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
   plugins: [
-    EditOnGithubPlugin.create('https://github.com/antdock/6/blob/master/docs/', null, path => {
+    EditOnGithubPlugin.create('https://github.com/nflsixer/nflsixer.github.io/blob/master/docs/', null, path => {
       if (path.indexOf('/') === 0) {
         return '编辑 / Edit';
       } else {
