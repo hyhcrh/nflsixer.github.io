@@ -1,8 +1,9 @@
 - Daily Board
-  - [Today(CN)](db/dbtoday.md)
+  - [Daily(CN)](db/dbtoday.md)
+  - [Archived Boards(CN)](db/archived.md)
   
 - Blog
-  - [Website Update!](en/blog/newsite.md)
+  - [2021/2/21 - Website Update!](en/blog/newsite.md)
   
 - Online
   - [Timetable](en/nsonline/timetable2021.md)
