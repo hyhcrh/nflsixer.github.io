@@ -1,5 +1,5 @@
 # 你好，这里是 NFLSixer！
->[查看最新座位安排表](nsonline/seatings)
+>明天起请按照[最新座位安排表](nsonline/seatings)就坐，谢谢！
 
 ## 最新通知
 
