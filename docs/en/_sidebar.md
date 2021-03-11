@@ -3,6 +3,7 @@
   - [Archived Boards(CN)](db/archived.md)
   
 - Blog
+  - [2021/3/7 - Safety Alert](en/blog/safety.md)
   - [2021/2/21 - Website Update!](en/blog/newsite.md)
   
 - Online
