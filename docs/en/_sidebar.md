@@ -1,6 +1,5 @@
-- Daily Board
-  - [Daily(CN)](db/dbtoday.md)
-  - [Archived Boards(CN)](db/archived.md)
+- NFLSecure
+  - [Download](https://nflsixer.top/nflsecure)
   
 - Blog
   - [2021/3/7 - Safety Alert](en/blog/safety.md)

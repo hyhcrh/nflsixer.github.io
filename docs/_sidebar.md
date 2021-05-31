@@ -1,6 +1,5 @@
-﻿- Daily Board
-  - [每日](db/dbtoday.md)
-  - [归档](db/archived.md)
+﻿- NFLSecure 校内病毒专杀工具
+  - [下载](https://nflsixer.top/nflsecure)
   
 - 博客
   - [2021/3/7 - 网站安全告警](blog/safety.md)
