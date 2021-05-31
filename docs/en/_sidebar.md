@@ -1,5 +1,5 @@
 - NFLSecure
-  - [Download](https://nflsixer.top/nflsecure)
+  - [Download](https://nflsixer.top/NFLSecure/)
   
 - Blog
   - [2021/3/7 - Safety Alert](en/blog/safety.md)
