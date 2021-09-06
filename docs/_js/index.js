@@ -23,16 +23,16 @@ window.$docsify = {
     paths: 'auto',
     placeholder: {
       '/en/': 'Search CN & EN Sites',
-      '/': '双站搜索'
+      '/': '搜索'
     }
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
   plugins: [
     EditOnGithubPlugin.create('https://github.com/nflsixer/nflsixer.github.io/blob/master/docs/', null, path => {
       if (path.indexOf('/') === 0) {
-        return '编辑 / Edit';
+        return '编辑';
       } else {
-        return '编辑 / Edit';
+        return '编辑';
       }
     }),
     (hook, vm) => {
