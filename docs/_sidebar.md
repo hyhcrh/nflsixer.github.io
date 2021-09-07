@@ -1,5 +1,5 @@
 - 班级在线
-  - [通知](/)
+  - [通知](nsonline/announcements)
   - [课程表](nsonline/timetable2022.md)
   - [学习小组](nsonline/studygroups.md)
   - [联系方式](nsonline/contactform.md)

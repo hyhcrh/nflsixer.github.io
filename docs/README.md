@@ -1,10 +1,5 @@
-# 你好，这里是 NFLSixer！
-
-## 最新通知
-
->**2021年9月6日** 班级	                         
->本学期定于9月9日开学报道，详情请查看家长群通知。         
-
-## 违纪统计
-
->更新时间：暂无  
+# 你好，这里是 NFLSixer 官方网站！	
+## [最新通知](nsonline/announcements)
+## [违纪统计](nsonline/offenses)
+## [学习小组](nsonline/studygroups)
+## [课程表](nsonline/timetable2021)
