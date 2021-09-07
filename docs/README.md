@@ -1,11 +1,12 @@
 # 你好，这里是 NFLSixer 官方网站！	
 
-## 快速导航
+## 快速导航	
 
-!>[最新通知](nsonline/announcements)
+>**最新通知**	
+>[查看班级、学校最新通知，内含演讲申报、活动报名等多个功能集成。点击此处立刻前往。](nsonline/announcements)	
 
-!>[违纪统计](nsonline/offenses)
+>**违纪统计**	
+>[每周一次的违纪结果汇报，内含个人违纪查询入口。点击此处立刻前往。](nsonline/offences)	
 
->[学习小组](nsonline/studygroups)
-
->[课程表](nsonline/timetable2021)
+>**课程表**	
+>[立刻查看本学期最新课程表和调课通知。点击此处立刻前往。](nsonline/timetable2021)	
