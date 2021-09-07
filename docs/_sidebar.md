@@ -1,6 +1,5 @@
 - 博客
-  - [2021/3/7 - 网站安全告警](blog/safety.md)
-  - [2021/2/21 - 网站更新啦！](blog/newsite.md)
+  - [暂无内容，不定期更新](/)
 
 - 在线
   - [课程表](nsonline/timetable2022.md)
@@ -8,10 +7,11 @@
   - [联系方式](nsonline/contactform.md)
 
 - 违纪
-  - 违纪统计结果将第一时间呈现在此处。
+  - [暂无内容，统计完成后呈现](/)
 
-- 电教工具
+- 工具
   - [NFLSecure](https://antdock.cn/NFLSecure/)
 
-- 我们还在
+- 更多
   - [Bilibili](https://m.bilibili.com/space/1668916597)
+  - [Github](https://github.com/nflsixer)
