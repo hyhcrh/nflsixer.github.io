@@ -4,11 +4,9 @@
   - [学习小组](nsonline/studygroups)
   - [联系方式](nsonline/contactform)
 
-- 开放博客
-  - [暂无内容，不定期更新](https://nflsixer.top)
-
-- 违纪统计
-  - [最新统计](offences/newest)
+- 范文共赏
+  - [小传写作](writing/newest)
+  - [上传入口](writing/upload)
 
 - 电教工具
   - [NFLSecure](https://antdock.cn/NFLSecure/)
