@@ -5,8 +5,7 @@
   - [联系方式](nsonline/contactform)
 
 - 范文共赏
-  - [小传写作](writing/newest)
-  - [上传入口](writing/upload)
+  - [最新范文](writing/newest)
 
 - 电教工具
   - [NFLSecure](https://antdock.cn/NFLSecure/)
