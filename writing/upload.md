@@ -1,12 +1,12 @@
 # 范文上传
 
 <head>
-<meta http-equiv="refresh" content="10;url=https://antdock.cn/goto/kdocs.cn/l/sl7d0BTE7wVf">
+<meta http-equiv="refresh" content="10;url=https://nflsixer.top/#/writing/upload">
 </head>
 
-## 小传写作
+## 你笑起来真好看
 
->10秒后将自动进入["小传写作"范文上传页面](https://antdock.cn/goto/kdocs.cn/l/sl7d0BTE7wVf)。
+>[范文上传页面还未准备好。请稍后回来。](https://nflsixer.top/#/writing/upload)。
 
 !>请在**标有学号的指定 PPT 页面上**粘贴作文**文本**。**请勿拍照上传，切勿粘贴错位，核查时会被删除！**
 
