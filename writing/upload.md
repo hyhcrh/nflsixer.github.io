@@ -1,14 +1,16 @@
 # 范文上传
 
-<head>
-<meta http-equiv="refresh" content="10;url=https://antdock.cn
-/goto/kdocs.cn/l/ce4XYfRh58yR?f=301">
-</head>
+## 《 我的生活少不了它》
+请确认你的作文标题。
+[点击此处进入《我的生活少不了它》上传入口。][1]
 
-## 你笑起来真好看
+## 《节日》
+请确认你的作文标题。
+[点击此处进入《节日》上传入口。][2]
 
->10秒后将自动进入[上传页面](https://antdock.cn/goto/kdocs.cn/l/ce4XYfRh58yR?f=301)。
+!\>请**任选一个 PPT 页面填写学号、姓名**，粘贴作文**文本**。**请勿拍照上传，切勿粘贴错位，核查时会被删除！**请注意系统关闭时间：2022.1.3 (周一) 12:00
 
-!>请**任选一个 PPT 页面填写学号、姓名**，粘贴作文**文本**。**请勿拍照上传，切勿粘贴错位，核查时会被删除！**请注意系统关闭时间：2021.12.11 (周六) 23:59
+*由 AntDock.cn 与 金山文档 提供支持。你可能需要使用指定账号登录才能进行上传。如遇问题请联系 hi@antdock.cn。*
 
-*由 AntDock.cn 与 金山文档 提供支持*
+[1]:	https://antdock.cn/goto/kdocs.cn/l/cqc3x3fcEMXz
+[2]:	https://antdock.cn/goto/kdocs.cn/l/cuCyQP4LUuKw
