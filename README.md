@@ -1,8 +1,10 @@
-# 祝 NFLSixers 新年快乐，虎力全开！
+# 你好，我们是NFLSixers。
 
-## 快速导航
+> **收集上传**	
+> 上传老师或班委会收集的文件资料，如作文范文、征文材料等内容。[点击此处前往。][1]
 
-!\>**收集上传：范文共赏**	
-上传老师指定的优秀作文，用于语文课堂讲解和展示。2022.1.3 12:00 截止。[点击此处前往。][1]
+> **报名参与**	
+> 加盟参赛团队，参加选角初选。[点击此处前往。][2]
 
-[1]:	https://nflsixer.top/#/writing/upload
+[1]:	https://nflsixer.top/#/studytools/contentupload
+[2]:	https://nflsixer.top/#/studytools/enrollment

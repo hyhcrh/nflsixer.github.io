@@ -1,15 +1,18 @@
 - 班级在线
-  - [通知](nsonline/announcements)
-  - [课程表](nsonline/timetable2022)
-  - [学习小组](nsonline/studygroups)
-  - [联系方式](nsonline/contactform)
+  - [通知][1]
+  - [学习小组][2]
 
-- 范文共赏
-  - [最新范文](writing/newest)
+- 学务工具
+  - [收集上传][3]
+- [报名参与][4]
 
-- 电教工具
-  - [NFLSecure](https://antdock.cn/NFLSecure/)
+- 平台链接
+  - [Bilibili][5]
+  - [Github][6]
 
-- 我们还在
-  - [Bilibili](https://m.bilibili.com/space/1668916597)
-  - [Github](https://github.com/nflsixer)
+[1]:	nsonline/announcements
+[2]:	nsonline/studygroups
+[3]:	studytools/contentupload
+[4]:	studytools/enrollment
+[5]:	https://m.bilibili.com/space/1668916597
+[6]:	https://github.com/nflsixer
