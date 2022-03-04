@@ -1,7 +1,7 @@
 # 收集上传
 
 ## 作文上传：仿写
-[**点击此处即可上传。**][1]
+[**通道将在2022.3.4晚开启。请之后再试。**][1]
 
 !>请**任选一个 PPT 页面填写学号、姓名**，粘贴作文**文本**。**请勿拍照上传，切勿粘贴错位，核查时会被删除！**
 
@@ -12,5 +12,5 @@
 
 *收集上传功能由 AntDock.cn 与 金山文档 提供支持。你可能需要使用指定账号登录才能进行上传。如遇问题请联系 hi@antdock.cn。*
 
-[1]:	https://antdock.cn/goto/kdocs.cn/l/cqc3x3fcEMXz
+[1]:	nflsixer.top/uploadgateclosed
 [2]:	nflsixer.top/uploadgateclosed
