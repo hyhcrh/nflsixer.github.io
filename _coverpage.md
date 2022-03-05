@@ -9,6 +9,6 @@
 > 尊重 投入 勤勉
 
 [⏫ 上传范文](https://nflsixer.top/#/studytools/contentupload)
-[🧭 快速导航](#快速导航)
+[🧭 快速导航](https://nflsixer.top/#/navigator)
 
 ![](https://z3.ax1x.com/2021/11/19/IbI0AA.jpg)

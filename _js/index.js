@@ -12,6 +12,7 @@ window.$docsify = {
   loadSidebar: true,
   loadNavbar: true,
   mergeNavbar: true,
+  onlyCover: true,
   maxLevel: 4,
   subMaxLevel: 2,
   name: 'NFLSixer',
