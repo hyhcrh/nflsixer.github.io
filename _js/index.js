@@ -28,13 +28,7 @@ window.$docsify = {
   },
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
   plugins: [
-    EditOnGithubPlugin.create('https://github.com/nflsixer/nflsixer.github.io/blob/master/', null, path => {
-      if (path.indexOf('/') === 0) {
-        return '编辑';
-      } else {
-        return '编辑';
-      }
-    }),
+    EditOnGithubPlugin.create('https://github.com/nflsixer/nflsixer.github.io/blob/master/', null, path => {}),
     (hook, vm) => {
       hook.beforeEach(async(content, next) => {
         const path = vm.route.path;
