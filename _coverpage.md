@@ -2,8 +2,7 @@
 
 ![logo](https://s4.ax1x.com/2022/03/05/bw44XR.png)
 
-# 你好，
-# 这里是 NFLSixer。
+# 你好，NFLSixer
 
 > 南京外国语学校2020级6班
 
