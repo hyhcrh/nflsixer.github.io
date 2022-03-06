@@ -4,7 +4,7 @@
 
 > 即将呈现
 
-![logo](https://s1.ax1x.com/2022/03/06/brSJn1.md.jpg)
+![logo](https://s1.ax1x.com/2022/03/06/britYV.jpg)
 
 > 我的青春之歌
 
