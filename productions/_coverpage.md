@@ -1,17 +1,16 @@
 <!-- _coverpage.md -->
 
-# One Note
+# 外语节 · One Note
 
-> 制作已经完成，现因疫情推迟呈现。
+> **剧目制作已经完成，现因疫情推迟呈现。**
 
 > The melody of my youth
 
 > The melody for our youth
 
-> **定档 2022**
+> 暂定档 2022
 
-[看往期演出](#过往演出)
-[添加到日历](https://nflsixer.top/load/one-note-event.ics)
+[📅 添加到日历](https://nflsixer.top/load/one-note-event.ics)
 
 <small>“添加到日历”为原定档公演时间。<small/>
 
