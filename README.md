@@ -1,6 +1,6 @@
 # 停课不停学
 
-> **✏️ 作业入口**
+> **✏️ 作业入口**    
 在QQ群作业功能中上传作业。[点击快速前往该页面。](https://qun.qq.com/homework/p/features/index.html#/list?gid=731012728&_k=sk10zi)
 
 # 快速导航
