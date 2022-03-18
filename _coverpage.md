@@ -6,7 +6,7 @@
 
 > [疫情后，我们再相见](https://mp.weixin.qq.com/s/wTCqyEc9kwFCqWe-M7b_wA)
 
-> 南京外国语学校2020级6班
+> NFLS 2020级6班
 
 > 尊重 投入 勤勉
 
