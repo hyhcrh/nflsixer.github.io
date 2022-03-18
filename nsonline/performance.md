@@ -1,8 +1,8 @@
 # 纪律情况
-**本页面最终更新于2022.3.18，统计范围截止至2022.3.11（网课开始前）。**
+**本页面最终更新于2022.3.18，统计范围截止至2022.3.18（网课第一周结束）。**
 
-![红黑榜图像 3.11](https://s1.ax1x.com/2022/03/18/qktN6I.png)
-![详细列表图像 3.11](https://s1.ax1x.com/2022/03/18/qktUXt.png)
+![qkyhYq.png](https://s1.ax1x.com/2022/03/18/qkyhYq.png)
+![qky4f0.png](https://s1.ax1x.com/2022/03/18/qky4f0.png)
 
 对内容有疑问？[点击此处查看原版详细XLSX文件*，查询具体情况。](https://kdocs.cn/l/cqELlVCFXDuk)
 
