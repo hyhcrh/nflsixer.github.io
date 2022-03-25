@@ -13,6 +13,6 @@
 <small> 背景照片由 张哲涵 摄制 <small/>
 
 [🧭 线上导航](#快速导航)
-[👩‍🏫 讨论区](https://support.qq.com/products/298344/)
+[👩‍🏫 纪律情况](nsonline/performance)
 
 ![](https://z3.ax1x.com/2021/11/19/IbI0AA.jpg)
