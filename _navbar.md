@@ -1,1 +1,2 @@
-- [AntDock 托管](https://codestatus.antdock.cn/check/712959)
+- [讨论区](https://support.qq.com/products/298344/)
+- [服务状态](https://codestatus.antdock.cn/check/712959)
