@@ -2,9 +2,9 @@
 
 ![logo](https://s4.ax1x.com/2022/03/05/bw44XR.png)
 
-# Till We Meet Again!
+# Hi, NFLSixer!
 
-> [疫情后 我们再相见](https://mp.weixin.qq.com/s/wTCqyEc9kwFCqWe-M7b_wA)
+> 六班人，享学每一天
 
 > NFLS 2020级6班
 

@@ -1,16 +1,16 @@
 # 收集上传
 
-## 作文上传：仿写
+## 作文上传：人才之我见
 [**点击此处进入上传页面。**][1]
 
 !\>请**任选一个 PPT 页面填写学号、姓名**，粘贴作文**文本**。**请勿拍照上传，切勿粘贴错位，核查时会被删除！**
 
-## 材料上传：寒假社会实践
+## 班级征集：全新班徽
 [**上传通道已关闭。**][2]
 
 !\>如有迫切需要或特殊原因，请联系班委会。
 
 *收集上传功能由 AntDock.cn 与 金山文档 提供支持。你可能需要使用指定账号登录才能进行上传。如遇问题请联系 hi@antdock.cn。*
 
-[1]:	https://antdock.cn/goto/kdocs.cn/l/cmXa7oRuSMg1
+[1]:	https://antdock.cn/goto/kdocs.cn/l/clWny8s7Qx1R?f=301
 [2]:	nflsixer.top/uploadgateclosed

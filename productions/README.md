@@ -4,11 +4,15 @@
 
 **外语节 2022** “The Melody of Youth”
 
-> The Melody of My Youth, The Melody of Our Youth.
+因故取消演出 / 我们心目中的第一名
 
-**即将呈现，请拭目以待。**
+> Qingru, a girl from the distant village of Malan, was encouraged by her music teacher Deng Xiaolan and her classmates to sing at the 2022 Beijing Winter Olympics.
 
-*准备工作现已完成，由于疫情原因推迟公演。*
+> 庆茹，一名来自遥远马兰山村的小女孩，在她的音乐老师邓小岚和她的同学们的鼓励下坚持登上了北京冬奥会的舞台，演唱《奥林匹克会歌》。
+
+**虽未见世，仍感谢陪伴。**
+
+*准备工作已完成，由于疫情原因公演已取消。*
 
 ## 《糖》
 
